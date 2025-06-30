@@ -129,7 +129,10 @@ docker run -p 8000:8000 smart-sdlc
 
 ## 📸 Screenshots
 
-> *\[Include screenshots of each feature UI here]*
+> *\![image](https://github.com/user-attachments/assets/a8b162a2-e3fd-46f2-b8e6-8535a1a09578)
+> *\![image](https://github.com/user-attachments/assets/8cced36d-6216-426c-ab92-5985a65fc77a)
+
+
 
 ---
 
@@ -159,5 +162,3 @@ For questions or feedback, reach out to:
 📱 **+91 7893606650**
 
 ````
-
----
