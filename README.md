@@ -129,9 +129,9 @@ docker run -p 8000:8000 smart-sdlc
 
 ## 📸 Screenshots
 
-> ![image](https://github.com/user-attachments/assets/a8b162a2-e3fd-46f2-b8e6-8535a1a09578)
-> ![image](https://github.com/user-attachments/assets/8cced36d-6216-426c-ab92-5985a65fc77a)
 
+> ![image](https://github.com/user-attachments/assets/8cced36d-6216-426c-ab92-5985a65fc77a)
+> ![image](https://github.com/user-attachments/assets/a8b162a2-e3fd-46f2-b8e6-8535a1a09578)
 
 
 ---
