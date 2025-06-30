@@ -1,0 +1,12 @@
+[User] 
+   ↓ 
+[Streamlit Frontend]
+   ↓ (input: PDF, prompt, buggy code)
+[FastAPI Backend]
+ ├── PDF Processor (PyMuPDF)
+ ├── AI Request Handler (Watsonx)
+ ├── LangChain Orchestrator
+ ├── Auth Module (login)
+ └── Response Formatter
+   ↓
+[Streamlit Display Output]
